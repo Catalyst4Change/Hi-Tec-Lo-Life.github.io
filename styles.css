@@ -1,3 +1,32 @@
+a:link {
+  text-decoration: underline;
+}
+
+a:link:before {
+  content: "["
+}
+
+a:link:after {
+  content: "["
+}
+
+/* Style for visited links */
+a:visited {
+  color: purple;
+}
+
+/* Style for links when the mouse is over them */
+a:hover {
+  color: red;
+  text-decoration: underline;
+  background-color: lightcoral;
+}
+
+/* Style for links when they are being clicked */
+a:active {
+  color: green;
+}
+  
 body {
   max-width: 500px;
   background-color: black;
