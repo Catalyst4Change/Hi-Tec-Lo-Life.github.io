@@ -1,25 +1,24 @@
 a:link {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:link:before {
-  content: "["
+  content: "[";
 }
 
 a:link:after {
-  content: "]"
+  content: "]";
 }
 
 /* Style for visited links */
 a:visited {
-  color: purple;
+  text-decoration: line-through;
 }
 
 /* Style for links when the mouse is over them */
 a:hover {
   color: red;
   text-decoration: underline;
-  background-color: lightcoral;
 }
 
 /* Style for links when they are being clicked */
