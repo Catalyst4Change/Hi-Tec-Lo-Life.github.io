@@ -7,7 +7,7 @@ a:link:before {
 }
 
 a:link:after {
-  content: "["
+  content: "]"
 }
 
 /* Style for visited links */
