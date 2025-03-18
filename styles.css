@@ -13,6 +13,7 @@ a:link:after {
 
 /* Style for visited links */
 a:visited {
+  color: dark-green;
   text-decoration: line-through;
 }
 
