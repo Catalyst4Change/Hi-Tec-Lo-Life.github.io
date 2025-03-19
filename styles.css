@@ -60,3 +60,10 @@ ul > li:before {
   content: "-";
   padding-right: 5px;
 }
+
+.center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
