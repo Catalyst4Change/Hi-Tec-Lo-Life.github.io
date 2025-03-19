@@ -53,6 +53,7 @@ ul {
 ul > li {
   padding-left: 1em;
   text-indent: -1em;
+  margin-bottom: 5px;
 }
 
 ul > li:before {
