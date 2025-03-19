@@ -1,7 +1,7 @@
 a:link {
   text-decoration: none;
-  color: lightgreen;
-  background-color: darkgrey;
+  color: black;
+  background-color: lime;
 }
 
 a:link:before {
@@ -14,7 +14,7 @@ a:link:after {
 
 /* Style for visited links */
 a:visited {
-  color: darkgreen;
+  color: darkgrey;
   text-decoration: line-through;
 }
 
