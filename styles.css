@@ -1,6 +1,7 @@
 a:link {
-  text-decoration: underline overline;
-  color: green;
+  text-decoration: none;
+  color: lightgreen;
+  background-color: darkgrey;
 }
 
 a:link:before {
@@ -13,13 +14,13 @@ a:link:after {
 
 /* Style for visited links */
 a:visited {
-  color: dark-green;
+  color: darkgreen;
   text-decoration: line-through;
 }
 
 /* Style for links when the mouse is over them */
 a:hover {
-  color: red;
+  color: white;
   text-decoration: underline;
 }
 
