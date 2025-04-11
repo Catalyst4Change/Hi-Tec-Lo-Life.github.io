@@ -1,5 +1,6 @@
 /* Style for links */
 a.link {
+  style: none;
   color: black;
   background-color: #66ff00;
 }
