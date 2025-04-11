@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Andale Mono Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Andale Mono Regular'), url('ANDALEMO.woff') format('woff');
+  }
+
 a:link,
 a:visited,
 a:hover,
@@ -13,7 +20,7 @@ body {
   padding: 10px;
   background-color: black;
   color: #66ff00;
-  font-family: 'Courier New', monospace;
+  font-family: 'Andale Mono Regular', menlo, 'Courier New', monospace;
   margin: auto;
 }
 
