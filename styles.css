@@ -33,7 +33,7 @@ body {
 	background-position: center center;
 	background-size: cover, 100% 3px;
   color: #66ff00;
-  font-family: 'VT323', Menlo, 'Courier New', monospace;
+  font-family: 'VT323', 'Andale Mono Regular', Menlo, 'Courier New', monospace;
   overflow-x: hidden !important;
 }
 
