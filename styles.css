@@ -1,18 +1,8 @@
 /* Style for links */
-a:link {
-  color: #99ff00;
+a.inverted {
+  color: black;
 }
 
-/* Style for visited links */
-a:visited {
-  color: #33ff00;
-}
-
-/* Style for links when the mouse is over them */
-a:hover {
-  color: white;
-}
-  
 body {
   max-width: 500px;
   padding: 10px;
@@ -53,9 +43,5 @@ ul > li:before {
 
 .inverted {
   background-color: #66ff00;
-  color: black;
-}
-
-.inverted > a {
   color: black;
 }
