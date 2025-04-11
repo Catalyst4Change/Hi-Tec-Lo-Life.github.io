@@ -7,16 +7,6 @@ a:active {
   background-color: #66ff00;
 }
 
-a::before {
-  content: " ";
-  background-color: #66ff00;
-}
-
-a::after {
-  content: " ";
-  background-color: #66ff00;
-}
-
 body {
   max-width: 500px;
   padding: 10px;
