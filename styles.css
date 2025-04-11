@@ -28,7 +28,7 @@ body {
   background-color: black;
   color: #66ff00;
   font-family: 'Andale Mono Regular', Menlo, 'Courier New', monospace;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 
 ul {
