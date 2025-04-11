@@ -23,6 +23,7 @@ body {
   color: #66ff00;
   font-family: 'Andale Mono Regular', menlo, 'Courier New', monospace;
   margin: auto;
+  overflow-x: hidden;
 }
 
 html {
