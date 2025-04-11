@@ -9,10 +9,12 @@ a:active {
 
 a::before {
   content: " ";
+  background-color: #66ff00;
 }
 
 a::after {
   content: " ";
+  background-color: #66ff00;
 }
 
 body {
