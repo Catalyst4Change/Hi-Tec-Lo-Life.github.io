@@ -12,7 +12,6 @@
   src: local('VT323-Regular'), url('VT323-Regular.ttf') format('ttf');
   }
 
-VT323-Regular.ttf
 *, *::before, *::after {
   box-sizing: border-box;
 }
