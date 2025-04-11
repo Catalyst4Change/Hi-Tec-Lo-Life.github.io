@@ -14,6 +14,8 @@
 </head>
 <body>
 
+    <img src="unicursal_1.jpg">
+    
     <h1>⚡️ Hi-Tec_Lo-Lifes Presents: Rant-n-Rave ⚡️</h1>
 
     <div class="section">
@@ -61,4 +63,5 @@
     </footer>
 
 </body>
+<link ref="stylesheet" href="styles.css">
 </html>
