@@ -1,6 +1,8 @@
-/* Style for links */
-a.link {
-  style: none;
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
   color: black;
   background-color: #66ff00;
 }
