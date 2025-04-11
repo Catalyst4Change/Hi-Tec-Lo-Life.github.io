@@ -1,11 +1,11 @@
 /* Style for links */
 a:link {
-  color: lime;
+  color: #99ff00;
 }
 
 /* Style for visited links */
 a:visited {
-  color: green;
+  color: #33ff00;
 }
 
 /* Style for links when the mouse is over them */
