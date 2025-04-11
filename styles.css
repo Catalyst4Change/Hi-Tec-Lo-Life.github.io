@@ -54,3 +54,8 @@ ul > li:before {
   justify-content: center;
   margin: auto;
 }
+
+.inverted {
+  background-color: #66ff00;
+  color: black;
+}
