@@ -17,12 +17,13 @@ a:active {
 
 html,
 body {
-  width: 500px;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
   padding: 10px;
   background-color: black;
   color: #66ff00;
   font-family: 'Andale Mono Regular', menlo, 'Courier New', monospace;
-  margin: auto;
   overflow-x: hidden;
 }
 
