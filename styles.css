@@ -5,6 +5,10 @@
   src: local('Andale Mono Regular'), url('ANDALEMO.woff') format('woff');
   }
 
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 a:link,
 a:visited,
 a:hover,
