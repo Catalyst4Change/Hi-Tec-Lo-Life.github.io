@@ -1,32 +1,16 @@
+/* Style for links */
 a:link {
-  text-decoration: none;
-  color: black;
-  background-color: lime;
-}
-
-a:link:before {
-  content: "[";
-}
-
-a:link:after {
-  content: "]";
+  color: lime;
 }
 
 /* Style for visited links */
 a:visited {
-  color: darkgrey;
-  text-decoration: line-through;
+  color: green;
 }
 
 /* Style for links when the mouse is over them */
 a:hover {
   color: white;
-  text-decoration: underline;
-}
-
-/* Style for links when they are being clicked */
-a:active {
-  color: green;
 }
   
 body {
