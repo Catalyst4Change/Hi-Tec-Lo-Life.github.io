@@ -17,18 +17,14 @@ a:active {
 
 html,
 body {
-  max-width: 500px;
   width: 100%;
+  max-width: 500px;
   margin: 0 auto;
   padding: 10px;
   background-color: black;
   color: #66ff00;
   font-family: 'Andale Mono Regular', menlo, 'Courier New', monospace;
   overflow-x: hidden;
-}
-
-html {
-  width: 100vw;
 }
 
 ul {
