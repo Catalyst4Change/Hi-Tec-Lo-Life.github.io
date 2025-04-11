@@ -32,7 +32,7 @@ a:active {
 body {
   max-width: 500px;
   background-color: black;
-  color: lime;
+  color: #bfff00;
   font-family: courier;
   margin: auto;
 }
