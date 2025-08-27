@@ -9,10 +9,7 @@
   box-sizing: border-box;
 }
 
-a:link,
-a:visited,
-a:hover,
-a:active {
+a {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 600;
