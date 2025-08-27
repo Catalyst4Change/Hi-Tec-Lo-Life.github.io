@@ -46,14 +46,6 @@ ul > li:before {
   padding-right: 5px;
 }
 
-li > a {
-  text-decoration: none;
-  text-transform: uppercase;
-  font-weight: 600;
-  color: black;
-  background-color: #66ff00;
-}
-
 .center {
   display: flex;
   flex-direction: column;
