@@ -17,8 +17,8 @@ a {
   background-color: #66ff00;
 }
 
-html,
-body {
+
+body, html {
   width: 100%;
   max-width: 500px;
   margin: 0 auto;
@@ -27,6 +27,10 @@ body {
   color: #66ff00;
   font-family: 'Andale Mono Regular', Menlo, 'Courier New', monospace;
   overflow-x: hidden !important;
+}
+
+p {
+  line-height: 0.8;
 }
 
 ul {
