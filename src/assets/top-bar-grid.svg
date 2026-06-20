@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-200 -200 400 400" width="30" height="30" fill="none">
+  <circle cx="0" cy="0" r="45" stroke="#c7f7cb" stroke-width="6" />
+  <g transform="rotate(0)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+  <g transform="rotate(45)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+  <g transform="rotate(90)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+  <g transform="rotate(135)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+
+  <g transform="rotate(180)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+  <g transform="rotate(225)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+  <g transform="rotate(270)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+  <g transform="rotate(315)">
+    <line x1="0" y1="-45" x2="0" y2="-150" stroke="#c7f7cb" stroke-width="6" stroke-linecap="square" />
+    <polygon points="0,-175 -25,-125 25,-125" fill="#c7f7cb" />
+  </g>
+</svg>
