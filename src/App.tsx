@@ -109,11 +109,11 @@ function App() {
       <header className="top-bar">
         <div className="top-bar__left" aria-hidden="true">
           <img src={topBarMenu} alt="" className="top-bar__glyph" />
-          <img src={topBarGrid} alt="" className="top-bar__glyph top-bar__glyph--small" />
+          <img src={topBarGrid} alt="" className="top-bar__glyph top-bar__glyph" />
         </div>
         <div className="top-bar__time">{formattedTime}</div>
         <div className="top-bar__right" aria-hidden="true">
-          <img src={topBarStack} alt="" className="top-bar__glyph top-bar__glyph--small" />
+          <img src={topBarStack} alt="" className="top-bar__glyph top-bar__glyph" />
           <img src={topBarSignal} alt="" className="top-bar__glyph" />
         </div>
       </header>
@@ -176,7 +176,7 @@ function App() {
                 <button
                   key={child.id}
                   type="button"
-                  className="desktop-tile desktop-tile--small"
+                  className="desktop-tile desktop-tile"
                   onClick={() => handleOpenChild(child)}
                 >
                   <span className="desktop-tile__icon">
