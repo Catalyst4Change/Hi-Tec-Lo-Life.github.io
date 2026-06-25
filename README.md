@@ -1,6 +1,24 @@
-# React + TypeScript + Vite
+# HTTL GUI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Vite + React + TypeScript app that is deployed to GitHub Pages.
+
+## Deployment
+
+The site is configured to publish from GitHub Actions to the custom domain www.hi-tec-lo-life.com.
+
+### Required GitHub repository settings
+
+- Enable GitHub Pages in the repository settings.
+- Set the source to GitHub Actions.
+- Add the custom domain www.hi-tec-lo-life.com in the Pages settings.
+- Configure the DNS for the domain to point to GitHub Pages.
+
+### Local build
+
+```bash
+npm install
+npm run build
+```
 
 Currently, two official plugins are available:
 
