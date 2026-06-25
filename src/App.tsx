@@ -27,7 +27,7 @@ const desktopItems: DesktopItem[] = [
     type: 'document',
     icon: textFile,
     content:
-      '=== Welcome to Hi-Tec_Lo-Life ===\n\n*The future ain\'t what it used to be*\n\n>Hi-Tec_Lo-Life is a cyberpunk-bachelor-pad-themed Burning Man camp.\n\n>Outside of the playa, we build chunky, futuristic bullshit with a fun and functional vibe.\n\n>Our Mission: foster community through comfortable creative spaces, gatherings, and mutual aid.',
+      '=== Welcome to Hi-Tec_Lo-Life ===\n\n*The future ain\'t what it used to be*\n\n>Hi-Tec_Lo-Life is a cyberpunk-bachelor-pad-themed Burning Man camp.\n\n>Outside of the playa, we build chunky, futuristic bullshit with a fun and functional vibe.\n\n>Our Mission: foster community through comfortable creative spaces, gatherings, and mutual aid.\n\nWe have removed our physical address form our website in order to ensure the safety of our community and prevent un-invited guests from attending our events.\n\nIf you are interested in attending one of our events for the first time, please [reach out to us](tel:+18083833571) to inquire about attendance and receive further instructions.',
   },
   {
     id: 'projects',
