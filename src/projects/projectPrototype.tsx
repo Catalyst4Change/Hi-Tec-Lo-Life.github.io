@@ -1,4 +1,5 @@
-import textFile from '../assets/wireframes/text-file.svg'
+import textFile from '/src/assets/wireframes/text-file.svg'
+import sigilContent from './content/sigil-content.md?raw'
 
 export type ProjectItem = {
   id: string
@@ -19,7 +20,7 @@ export const projectItems: ProjectItem[] = [
     icon: textFile,
     images: ['src/assets/images/sigil.JPEG'],
     content:
-      '>As our camp continued to gain a presence and an aesthetic, we wanted to create a symbol that represented our identity and values.\n\n>We settled on the Unicursal Hexagram - a six-pointed star drawn in one unbroken line.\n\n>It, like us, has a cultish vibe and is reminiscent of sacred geometry. Once used by infamous occultist Aleister Crowley, the symbol has a rich history dating back to the 16th century.The symbol was also used by Italian philosopher Giordano Bruno, who was burned at the stake by the Roman Catholic Church for his "heretical ideas", such as the Su\n\n>n being the center of our solar system and that other planets could potentially harbor life.\n\n>We felt that this rebellious and non-conformist spirit aligned with our own values and identity.\n\n>Anyway, we built a big one out of reclaimed aluminum and backlit it with addressable LEDs. The math required to calculate the angles and dimensions of the hexagram was a fun challenge, and we ended up with a striking and unique piece of art that represents Hi-Tec_Lo-Life and its values.',
+      sigilContent,
   },
   {
     id: 'project-02',

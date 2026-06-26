@@ -1,4 +1,4 @@
-import textFile from '../assets/wireframes/text-file.svg'
+import textFile from '/src/assets/wireframes/folder-wireframe.svg'
 
 export type EventItem = {
   id: string
